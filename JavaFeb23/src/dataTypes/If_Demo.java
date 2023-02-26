@@ -11,7 +11,7 @@ public class If_Demo {
 		 * Code to be executed 
 		 * }
 		 */
-		
+		// this is an example
 		int age = 16;
 		System.out.println ( " Testing if condition stats:");
 		if ( age < 18 )
