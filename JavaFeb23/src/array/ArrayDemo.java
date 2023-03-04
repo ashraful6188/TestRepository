@@ -4,7 +4,7 @@ public class ArrayDemo {
 
 	public static void main(String[] args) {
 		String[] myArray = new String[3];
-		
+		// another cooment
 		//assinging value to the array
 		 myArray[0] = "Selenium";
          myArray[1] = "Eclipse"; 
